@@ -1360,7 +1360,7 @@
       <id>default</id>
       <name>Maven Repository Switchboard</name>
       <layout>default</layout>
-      <url>http://repo1.maven.org/maven2</url>
+      <url>https://repo1.maven.org/maven2</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
@@ -1368,17 +1368,17 @@
 
     <repository>
       <id>hwx-releases</id>
-      <url>http://repo.hortonworks.com/content/repositories/releases/</url>
+      <url>https://repo.hortonworks.com/content/repositories/releases/</url>
     </repository>
     <repository>
       <id>hwx-public</id>
-      <url>http://repo.hortonworks.com/content/groups/public/</url>
+      <url>https://repo.hortonworks.com/content/groups/public/</url>
     </repository>
 
     <repository>
       <id>repository.mapr.com</id>
       <name>MAPR PUBLIC</name>
-      <url>http://repository.mapr.com/nexus/content/groups/mapr-public</url>
+      <url>https://repository.mapr.com/nexus/content/groups/mapr-public</url>
     </repository>
     
     <repository>
@@ -1393,7 +1393,7 @@
     <repository>
       <id>ngdata.oss-releases</id>
       <name>NGDATA OSS Releases</name>
-      <url>http://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
@@ -1404,7 +1404,7 @@
     <pluginRepository>
       <id>central</id>
       <name>Maven Plugin Repository</name>
-      <url>http://repo1.maven.org/maven2/</url>
+      <url>https://repo1.maven.org/maven2/</url>
       <layout>default</layout>
       <snapshots>
         <enabled>false</enabled>
@@ -1419,12 +1419,12 @@
     <repository>
       <id>ngdata.oss-releases</id>
       <name>NGDATA OSS Releases</name>
-      <url>http://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
     </repository>
     <snapshotRepository>
       <id>ngdata.snapshots</id>
       <name>NGDATA Snapshots</name>
-      <url>http://mvnrepo.ngdata.com/content/repositories/snapshots</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
