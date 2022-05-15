@@ -1393,7 +1393,7 @@
     <repository>
       <id>ngdata.oss-releases</id>
       <name>NGDATA OSS Releases</name>
-      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
@@ -1419,12 +1419,12 @@
     <repository>
       <id>ngdata.oss-releases</id>
       <name>NGDATA OSS Releases</name>
-      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/oss-releases/</url>
     </repository>
     <snapshotRepository>
       <id>ngdata.snapshots</id>
       <name>NGDATA Snapshots</name>
-      <url>https://mvnrepo.ngdata.com/content/repositories/snapshots</url>
+      <url>https://mvnrepo.ngdata.com/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
